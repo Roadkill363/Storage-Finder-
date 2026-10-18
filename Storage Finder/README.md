@@ -57,7 +57,3 @@ For the most complete scan, use **Tools > Restart as administrator**.
 ## Disclaimer
 
 This tool can delete files. Double-check what you select before confirming. Use at your own risk.
-
-## License
-
-Add a license of your choice (for example MIT) before publishing.
